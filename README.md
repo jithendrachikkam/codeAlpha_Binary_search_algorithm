@@ -1,4 +1,5 @@
 #codeaplha_Binary_Search_Algorthim
+
 This Python function generates a list of numbers within a specified range with a defined step. It provides an easy way to create custom numerical sequences within a given range.
 
 "result = generate_range(start, end, step)"
